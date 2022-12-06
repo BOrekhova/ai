@@ -39,7 +39,7 @@ Examples of topologies:
 Advantage is that a graph can change dynamically, it can adapt to changes in real time
 
 ### Algorithm:
-1. Represent a solution space as a graph
+1. Represent a solution space as a weighted graph
 2. Initialize ACO parameters
 3. Generate random solutions from each ant's random walk
 4. Update pheromone intensities
